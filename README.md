@@ -1,0 +1,6 @@
+# rahfianugerah.github.io Config Repository <a href="https://github.com/rahfianugerah"></></a>
+<p align="justify">
+  This project entails the development of a personal web portfolio designed to effectively communicate my technical skillset and professional experience. 
+  The platform will leverage modern web development practices to ensure optimal performance and user experience. 
+  A curated selection of projects will be strategically presented, showcasing proficiency in specific programming languages, frameworks, and methodologies.
+</p>

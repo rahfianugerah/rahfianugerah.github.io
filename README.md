@@ -12,3 +12,5 @@
 </p>
 
 ## Project Author
+- Name: Naufal Rahfi Anugerah
+- GitHub: [@rahfianugerah](https://www.github.com/rahfianugerah)

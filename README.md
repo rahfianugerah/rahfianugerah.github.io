@@ -10,3 +10,5 @@
   The platform will leverage modern web development practices to ensure optimal performance and user experience. 
   A curated selection of projects will be strategically presented, showcasing proficiency in specific programming languages, frameworks, and methodologies.
 </p>
+
+## Project Author
